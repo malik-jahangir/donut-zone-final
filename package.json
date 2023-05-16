@@ -10,7 +10,13 @@
   },
   "dependencies": {
     "next": "13.4.2",
+    "owl.carousel": "^2.3.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "sass": "^1.62.1",
+    "swiper": "^9.3.1"
+  },
+  "devDependencies": {
+    "expose-loader": "^4.1.0"
   }
 }
